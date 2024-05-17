@@ -1,3 +1,9 @@
+## Fork update (ColasDroin)
+
+This branch is completely identical to the one it's been forked from, except for adding the ```lhc.madx``` and ```lhcb4.madx``` sequences, for convenience. These files can be found as well (locally) on CERN afs at ```/afs/cern.ch/eng/lhc/optics/runIII/```.
+
+## Original readme
+
 Optics files are named:
 
 opt_<betxip1>_<betyip1>_<betxip5>_<betyip5>.madx
